@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/percent/LJChatSDK'
+  s.homepage         = 'https://github.com/pwthd6bzfs-byte/LJChatSDK.gitSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'percent' => '524269669@qq.com' }
-  s.source           = { :git => 'https://github.com/percent/LJChatSDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/pwthd6bzfs-byte/LJChatSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '13.0'
@@ -36,8 +36,8 @@ TODO: Add long description of the pod here.
   s.requires_arc = true
   
    s.resource_bundles = {
-#     'LJChatSDK' => ['LJChatSDK/Assets/Images/*.png']
-     'LJChatSDK' => ['LJChatSDK/Classes/*.png']
+    'LJChatSDK' => ['LJChatSDK/Assets/Images/*.png']
+     # 'LJChatSDK' => ['LJChatSDK/Classes/*.png']
    }
 
    s.public_header_files = 'LJChatSDK/Classes/**/*.h'
