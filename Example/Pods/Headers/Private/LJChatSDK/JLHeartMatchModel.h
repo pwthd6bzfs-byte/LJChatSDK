@@ -1,0 +1,1 @@
+../../../../../LJChatSDK/Classes/UI/JLHeartMatchController/Model/JLHeartMatchModel.h

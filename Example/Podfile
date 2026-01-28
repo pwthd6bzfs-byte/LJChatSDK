@@ -1,0 +1,21 @@
+#use_frameworks!
+
+platform :ios, '13.0'
+
+target 'LJChatSDK_Example' do
+  pod 'LJChatSDK', :path => '../'
+
+  # 全局键盘
+#  pod 'IQKeyboardManagerSwift', '7.1.1'
+#  pod 'SnapKit', '~> 5.6.0'
+
+  # 查看图层
+  pod 'LookinServer', :subspecs => ['Swift'], :configurations => ['Debug']
+
+  
+  target 'LJChatSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

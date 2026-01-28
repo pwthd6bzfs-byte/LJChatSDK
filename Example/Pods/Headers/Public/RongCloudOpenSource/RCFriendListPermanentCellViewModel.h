@@ -1,0 +1,1 @@
+../../../RongCloudOpenSource/IMKit/Sections/UserProfile/Friend/FriendList/ViewModel/RCFriendListPermanentCellViewModel.h

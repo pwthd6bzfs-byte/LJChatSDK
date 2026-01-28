@@ -1,0 +1,48 @@
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#else
+#ifndef FOUNDATION_EXPORT
+#if defined(__cplusplus)
+#define FOUNDATION_EXPORT extern "C"
+#else
+#define FOUNDATION_EXPORT extern
+#endif
+#endif
+#endif
+
+
+
+#import "Masonry.h"
+#import "SVProgressHUD.h"
+#import "SDWebImage.h"
+#import "UIColor+HexColor.h"
+#import "JLAPIService.h"
+#import "JLUserService.h"
+#import "JLRTCService.h"
+#import "JLCustomMessage.h"
+#import "JLIMService.h"
+#import "JXCategoryView.h"
+#import "CustomNaviBarView.h"
+#import "MJRefresh.h"
+#import "UIScrollView+EmptyDataSet.h"
+#import "UIView+CurrentViewController.h"
+#import "NSObject+CurrentViewController.h"
+#import "Config.h"
+
+#define Weakself(weakSelf)  __weak __typeof(&*self)weakSelf = self;
+
+    ////屏幕宽度
+#define kScreenWidth ([[UIScreen mainScreen]bounds].size.width)
+    //屏幕高度
+#define kScreenHeight ([[UIScreen mainScreen]bounds].size.height)
+
+
+    /// 状态栏高度
+#define kStatusBarHeight ([[UIApplication sharedApplication] statusBarFrame].size.height)
+
+    // 状态栏高度大于20（热点被连接时/接电话、微信语音等）
+#define STATUS_BAR_BIGGER_THAN_20 ([UIApplication sharedApplication].statusBarFrame.size.height > 20)
+
+    /// 状态栏 + 导航栏 的高度
+#define kOldNavigationBar_Height 44
+#define kNavigationBar_Height    ( kStatusBarHeight + kOldNavigationBar_Height )

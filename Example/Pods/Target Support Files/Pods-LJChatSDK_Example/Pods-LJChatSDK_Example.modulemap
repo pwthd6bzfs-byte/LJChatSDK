@@ -1,0 +1,6 @@
+module Pods_LJChatSDK_Example {
+  umbrella header "Pods-LJChatSDK_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

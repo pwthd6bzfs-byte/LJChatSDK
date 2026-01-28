@@ -1,0 +1,1 @@
+../../../RongCloudOpenSource/IMKit/Sections/Translation/RCKitTranslationConfig.h

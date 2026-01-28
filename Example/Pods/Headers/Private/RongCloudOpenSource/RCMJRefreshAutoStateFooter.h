@@ -1,0 +1,1 @@
+../../../RongCloudOpenSource/IMKit/Utility/MJRefresh/Custom/Footer/Auto/RCMJRefreshAutoStateFooter.h

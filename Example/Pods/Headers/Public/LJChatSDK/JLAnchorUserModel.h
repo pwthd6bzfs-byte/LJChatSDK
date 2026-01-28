@@ -1,0 +1,1 @@
+../../../../../LJChatSDK/Classes/UI/JLConversationViewController/Model/JLAnchorUserModel/JLAnchorUserModel.h

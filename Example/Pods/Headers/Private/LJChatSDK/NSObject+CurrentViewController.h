@@ -1,0 +1,1 @@
+../../../../../LJChatSDK/Classes/Categary/NSObject+CurrentViewController.h

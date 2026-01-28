@@ -1,0 +1,1 @@
+../../../RongCloudOpenSource/IMKit/Sections/Conversation/InputBar/ModuleService/RCExtensionModule.h

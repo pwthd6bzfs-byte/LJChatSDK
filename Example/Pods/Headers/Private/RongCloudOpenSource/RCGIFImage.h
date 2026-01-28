@@ -1,0 +1,1 @@
+../../../RongCloudOpenSource/IMKit/Sections/Conversation/GIF/RCGIFImage.h

@@ -1,0 +1,1 @@
+../../../RongCloudOpenSource/IMKit/Sections/STT/Category/RCMessageModel+STT.h

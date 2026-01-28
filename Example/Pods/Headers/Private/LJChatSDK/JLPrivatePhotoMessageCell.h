@@ -1,0 +1,1 @@
+../../../../../LJChatSDK/Classes/UI/JLConversationViewController/CustomCell/JLPrivatePhotoMessageCell.h

@@ -1,0 +1,1 @@
+../../../RongCloudOpenSource/IMKit/Utility/Extension/RCGroupInfo+Private.h

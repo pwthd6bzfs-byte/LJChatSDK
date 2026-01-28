@@ -1,0 +1,1 @@
+../../../RongCloudOpenSource/IMKit/Sections/ExtensionManager/RongIMKitExtensionModule.h

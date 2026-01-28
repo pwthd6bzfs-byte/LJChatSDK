@@ -1,0 +1,1 @@
+../../../RongCloudOpenSource/IMKit/Sections/Conversation/InputBar/Photo/RCPhotosPickerController.h
